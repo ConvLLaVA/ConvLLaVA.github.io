@@ -261,22 +261,22 @@ params:
     
 menu:
   main:
-    # - identifier: api
-    #   name: Resources
-    #   url: /resources
-    #   weight: 10
+    - identifier: api
+      name: Resources
+      url: /resources
+      weight: 10
     - identifier: blog
       name: Blog
       url: /blog/
       weight: 20
-    # - identifier: publication
-    #   name: Publication
-    #   url: /publication
-    #   weight: 30
-    # - identifier: about
-    #   name: About
-    #   url: /about
-    #   weight: 40
+    - identifier: publication
+      name: Publication
+      url: /publication
+      weight: 30
+    - identifier: about
+      name: About
+      url: /about
+      weight: 40
     # - identifier: search
     #   name: SEARCH
     #   url: /search
